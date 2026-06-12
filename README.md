@@ -18,7 +18,7 @@ The source files in this repository demonstrate core programming constructs, mem
 * **Concepts:** Function prototypes, pass-by-value vs. pass-by-reference, scope of variables, and modular code separation.
 * **Focus Area:** Breaking down complex monolithic code into small, highly cohesive functions to ensure readability and follow the **Don't Repeat Yourself (DRY)** principle.
 
-### 3. Data Structures & Memory Blocks
+### 3. Data Structures & Memory Blocks(In progress Code)
 * **Concepts:** 1D and 2D arrays, string manipulation, and sequential data processing.
 * **Focus Area:** Managing indices safely, searching/sorting through elements, and processing data grids efficiently.
 
